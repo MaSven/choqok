@@ -56,6 +56,7 @@ PUBLIC
     Qt5::DBus
     Qt5::NetworkAuth
     Qt5::Widgets
+    qt5keychain
     KF5::ConfigCore
     KF5::Emoticons
     KF5::GuiAddons
@@ -68,7 +69,6 @@ PUBLIC
     KF5::SonnetCore
     KF5::TextWidgets
     KF5::XmlGui
-    KF5::Wallet
 )
 
 #if(QtIndicate_FOUND)

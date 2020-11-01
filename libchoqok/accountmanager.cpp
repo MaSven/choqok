@@ -32,7 +32,7 @@
 #include <KJobWidgets>
 #include <KLocalizedString>
 #include <KSharedConfig>
-#include <KWallet>
+
 
 #include "libchoqokdebug.h"
 #include "microblog.h"
